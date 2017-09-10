@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "210682028010",
+    "firebase_url": "https://firerealdemo.firebaseio.com",
+    "project_id": "firerealdemo",
+    "storage_bucket": "firerealdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210682028010:android:f2afe36d88817b84",
+        "android_client_info": {
+          "package_name": "com.respay.firerealdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210682028010-20m1ptu812e5ij699k4n7ge1io39tljd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQYhtd842--gj2aqvhcCgjVurupMGUhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
